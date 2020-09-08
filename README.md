@@ -1,1 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=odmishien&count_private=true&show_icons=true&theme=solarized-dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmishien&theme=solarized-dark&layout=compact&count_private=true" />
+[![](https://raw.githubusercontent.com/odmishien/odmishien/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/odmishien/odmishien/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/odmishien/odmishien/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
