@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/odmishien/odmishien/master/profile-summary-card-output/monokai/3-stats.svg)
-```
-
-    
